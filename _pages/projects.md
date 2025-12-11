@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Janae Camargo - Portfolio
-permalink: /projects/
+permalink: projects/
 ---
 
 <div class="gallery-container">
