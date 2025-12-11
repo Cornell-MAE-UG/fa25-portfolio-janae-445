@@ -1,16 +1,16 @@
 ---
 layout: default
-title: <Your Name>
+title: Janae Camargo
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/github-profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a mechanical engineering major who learns best by being hands on. I like machining, testing, and building systems because seeing how something actually works helps everything click for me. Over time I’ve built a solid base in mechanical and manufacturing concepts, and learning more about lean has pushed me to think about how processes can be cleaner and more efficient. I enjoy practical work where I can apply what I know, pick up new skills, and make steady improvements.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I’m especially interested in manufacturing and factory environments, and I’ve always had a natural pull toward automotive work. I like understanding how things are made, what keeps production moving, and how small adjustments can make a big difference in performance. Basketball shaped how I communicate and work with others, and that carries into how I approach engineering problems. I want to keep growing in spaces where hands-on work, problem solving, and teamwork matter every day.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
