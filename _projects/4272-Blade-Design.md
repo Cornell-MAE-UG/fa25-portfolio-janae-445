@@ -2,7 +2,7 @@
 layout: project
 title: MAE 4272 Blade Design
 description: Design Project
-technologies: [Autodesk Fusion][MATLAB]
+technologies: [Autodesk Fusion, MATLAB]
 image: /assets/images/CAD-Rendering.png
 ---
 
