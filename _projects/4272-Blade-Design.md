@@ -15,6 +15,6 @@ Our design process centered on selecting a target angle of attack, choosing an a
 
 The blades were tested across wind speeds ranging from 8 to 16 Hz by allowing the turbine to spin freely before gradually applying load through the torque brake. This produced full RPM–torque curves for each speed, and LabVIEW measurements of rotational speed, torque, and power allowed us to generate power curves, identify peak power, and compare expected versus actual performance.
 
-![Power Curves]({{ "/assets/images/power-curve.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Our blades with parameters]({{ "assets/images/power-curve.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 My contribution focused on developing the MATLAB code used to define blade parameters and analyze the experimental data. I processed torque and RPM measurements, computed power across wind speeds, and identified peak operating points that helped evaluate how closely the final blade aligned with our predictions.
