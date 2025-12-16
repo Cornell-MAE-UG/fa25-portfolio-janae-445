@@ -24,7 +24,7 @@ Emerging mechanical engineer with solid experience in machining, testing, and wo
 
 - **Andrews Osborne Academy**  
   *High School Diploma*  
-  Graduation: [June, 2022]
+  Graduation: June, 2022
 
 ---
 
